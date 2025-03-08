@@ -1,0 +1,2 @@
+cd C:\Users\venka\OneDrive\Desktop\java selenium\TestNGFramWork>
+mvn test
